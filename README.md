@@ -20,6 +20,6 @@ Gosto de aprender coisas novas e estou animado para evoluir na área e criar pro
 
 <b>ME SEGUE NAS REDES<b> 
 
-<a href="https://www.facebook.com/Nando.Souza8?locale=pt_BR"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="css-FACE" target="_brank"/></a>
+<a href="https://www.facebook.com/Nando.Souza8?locale=pt_BR"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="css-FACE" target="_blank"/></a>
 
-<a href="https://www.instagram.com/fernando_souza2111/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="css-insta" target="_brank"/><a/>
+<a href="https://www.instagram.com/fernando_souza2111/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="css-insta" target="_blank"/><a/>
