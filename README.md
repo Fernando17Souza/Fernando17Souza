@@ -1,5 +1,5 @@
 ## olá 👋
-sou Fernando Souza😃 programador Front End
+Me chamo Fernando Souza 😃 tenho 24 anos, estudando para ser programador full-stack.
 Atualmente estou aprendendo HTML, CSS, JavaScript e Node.js.
 Gosto de aprender coisas novas e estou animado para evoluir na área e criar projetos cada vez melhores!
 
